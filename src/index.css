@@ -1,0 +1,32 @@
+.app-wrapper {
+  height: calc(100vh - 20px);
+}
+
+.customized-app {
+  height: 90%;
+}
+
+.customized-channelpreview-item:hover {
+  cursor: pointer;
+}
+
+.channel-selector {
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.channel-selector__icons {
+  display: flex;
+}
+
+.sendbird-channel-list__header {
+  display: none;
+}
+
+.custom-channel-list {
+  height: 64px;
+  display: flex;
+  justify-content: space-between;
+}
