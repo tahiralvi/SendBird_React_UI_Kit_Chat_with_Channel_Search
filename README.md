@@ -1,0 +1,2 @@
+# SendBird_React_UI_Kit_Chat_with_Channel_Search
+Created with CodeSandbox
